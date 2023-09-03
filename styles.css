@@ -44,3 +44,4 @@ body {
 .bottom { transform: rotateX(-90deg) translateZ(100px); }
 
 /* Assign different colors to each face */
+.front  { background-color: #ff5733; } /* Reddish */
