@@ -38,3 +38,4 @@ body {
 
 .front  { transform: translateZ(100px); }
 .back   { transform: translateZ(-100px) rotateY(180deg); }
+.right  { transform: rotateY(-90deg) translateZ(100px); }
