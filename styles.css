@@ -21,3 +21,4 @@ body {
     position: relative;
     transform-style: preserve-3d;
     animation: rotate 10s infinite linear; /* Auto-rotate the cube */
+}
